@@ -1,0 +1,31 @@
+{
+  "smartling": {
+    "translate_paths": {
+      "path": "*/translation",
+      "key": "{*}/translation",
+      "instruction": "*/translation-note"
+    },
+    "string_format_paths": "html: *",
+    "placeholder_format_custom": ["\\^\\^.*?\\^\\^"],
+    "variants_enabled": "true"
+  },
+  "Key1": {
+    "attribute": "4215050",
+    "translation": "Hello, ^^USER_NAME^^.",
+    "translation-note": "^^username^^ will be the first name, e.g. Mary"
+  },
+  "Key2": {
+    "attribute": "400913",
+    "translation": "Hello, ^^USER_NAME^^.",
+    "translation-note": "^^username^^ will be the first name, e.g. John"
+  },
+  "Key3": {
+    "attribute": "4215049",
+    "translation": "<p c>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque bibendum aliquam iaculis. Nulla dolor est, laoreet ut interdum in, dictum sit amet nibh. Nunc sapien nulla, vulputate ac leo venenatis, consectetur scelerisque libero.</p><p>Nullam volutpat finibus magna, vitae sagittis erat varius et.</p>",
+    "translation-note": ""
+  },
+  "Key4": {
+    "attribute": "4213290",
+    "translation": "About Us"
+  }
+}

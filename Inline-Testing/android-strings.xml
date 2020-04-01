@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- smartling.instruction_attributes = comment, note -->
+<!-- smartling.placeholder_format_custom = \[.+?\] -->
+<resources>
+<string note="This is an instruction about this string and will appear in the Smartling CAT Tool for linguists." name="app_name">My Application</string>
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Settings</string>
+<string name="login">User Login</string>
+<string comment="This is an instruction about this string and will appear in the Smartling CAT Tool for linguists." name="intro">Get started using our product!</string>
+<string translatable="FALSE" name="address">123 Fake Street</string>
+<string  name="greeting">Welcome, [user_name]</string>
+<!-- smartling.entity_escaping = true -->
+<string name="escape_please">&amp;lt;p&amp;gt;Here is some <strong>bold</strong> text &amp; &lt; &gt; ` additional © &#169; notes.&amp;lt;/p&amp;gt;</string>
+<!-- smartling.entity_escaping = false -->
+<string name="no_escape_please">&amp;lt;p&amp;gt;Here is some <strong>bold</strong> text &amp; &lt; &gt; ` additional © &#169; notes.&amp;lt;/p&amp;gt;</string>
+<!-- smartling.character_limit = 140 -->
+<string name="char_limit">No more than 140 characters please!</string>
+<!-- smartling.character_limit = NONE -->
+<string name="no_limit">We&apos;ve disabled the character limit file directive. That means that this string can be as long as needed! There is no longer a 140 character limit.</string>
+</resources>
