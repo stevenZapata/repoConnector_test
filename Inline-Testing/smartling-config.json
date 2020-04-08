@@ -53,7 +53,7 @@
          {
             "type"                      : "android",
             "authorizeContent"          : "false",
-            "pathRegex"                 : "Inline-Testing\\/*\\.xml",
+            "pathRegex"                 : "Inline-Testing\\/.*\\.xml",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}"
          },
          {
