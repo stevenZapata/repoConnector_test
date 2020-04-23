@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- smartling.instruction_attributes = comment, note -->
+<!-- smartling.placeholder_format_custom = \[.+?\] -->
+<resources>
+<string note="This is an instruction about this string and will appear in the Smartling CAT Tool for linguists." name="app_name">Meine Bewerbung</string>
+<string name="hello_world">Hallo Welt!</string>
+<string name="action_settings">die Einstellungen</string>
+<string name="login">Benutzer-Anmeldung</string>
+<string name="SignOut">User has signed out</string>
+<string comment="This is an instruction about this string and will appear in the Smartling CAT Tool for linguists." name="intro">Beginnen Sie mit unserem Produkt!</string>
+<string translatable="FALSE" name="address">123 Fake Street</string>
+<string name="greeting">Willkommen, [user_name]</string>
+<!-- smartling.entity_escaping = true -->
+<string name="escape_please">&amp;lt;p&amp;gt; Hier ist ein <strong>bold</strong> Text &amp;amp; &amp;lt; &amp;gt; `zusätzliche © © Notizen. &amp;lt;/p&amp;gt;</string>
+<!-- smartling.entity_escaping = false -->
+<string name="no_escape_please">&lt;p&gt; Hier ist ein <strong>bold</strong> Text &amp; &lt; &gt; `zusätzliche © © Notizen. &lt;/p&gt;</string>
+<!-- smartling.character_limit = 140 -->
+<string name="char_limit">Bitte nicht mehr als 140 Zeichen!</string>
+<string name="char_min">No less than 5 characters please!</string>
+<string name="char_min">Around 250 Characters!</string>
+<!-- smartling.character_limit = NONE -->
+<string name="no_limit">Wir haben die Direktive für Zeichenbeschränkungsdateien deaktiviert. Das bedeutet, dass diese Zeichenfolge so lang wie nötig sein kann! Es gibt keine Beschränkung von 140 Zeichen mehr.</string>
+</resources>
