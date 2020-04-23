@@ -43,7 +43,7 @@
         
          {
             "type"                      : "android",
-            "authorizeContent"          : "false",
+            "authorizeContent"          : "true",
             "pathRegex"                 : "Inline-Testing\\/android-strings.xml",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
             "smartlingDirectives"       : [
