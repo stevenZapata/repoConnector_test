@@ -94,5 +94,6 @@
   "reset_asset_status_confirm_dialog_message": "Reset status for %s to normal?",
   "fetching_hosts_for_ip_server_error": "Failed to get hosts for Ip Address: [%s].",
   "homepage": "home",
-  "home_living": "home"
+  "home_living": "home".
+  "test1": "testing this string"
 }
