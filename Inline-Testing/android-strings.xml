@@ -17,6 +17,7 @@
 <!-- smartling.character_limit = 140 -->
 <string name="char_limit">No more than 140 characters please!</string>
 <string name="char_min">No less than 5 characters please!</string>
+<string name="char_min">Around 250 Characters!</string>
 <!-- smartling.character_limit = NONE -->
 <string name="no_limit">We&apos;ve disabled the character limit file directive. That means that this string can be as long as needed! There is no longer a 140 character limit.</string>
 </resources>
