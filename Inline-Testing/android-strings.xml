@@ -21,6 +21,7 @@
 <string name="steven">Steven is testing this repo</string>
 <string name="zapata">Zapata is working</string>
 <string name="deleted">File deleted and seeing if all the strings are added back</string>
+<string name="localized_file_deleted">Localized file deleted and seeing if all the strings are updated to smartling</string>
 
 <!-- smartling.character_limit = NONE -->
 <string name="no_limit">We&apos;ve disabled the character limit file directive. That means that this string can be as long as needed! There is no longer a 140 character limit.</string>
