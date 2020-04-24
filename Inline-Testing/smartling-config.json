@@ -43,7 +43,7 @@
         
          {
             "type"                      : "android",
-            "authorizeContent"          : "true",
+            "authorizeContent"          : "false",
             "pathRegex"                 : "Inline-Testing\\/android-strings.xml",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
             "smartlingDirectives"       : [
@@ -53,7 +53,7 @@
          },
          {
             "type"                      : "json",
-            "authorizeContent"          : "true",
+            "authorizeContent"          : "false",
             "pathRegex"                 : "Inline-Testing\\/AA UI_assets_related.json",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
             "smartlingDirectives"       : [
