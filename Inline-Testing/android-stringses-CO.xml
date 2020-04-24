@@ -18,6 +18,11 @@
 <string name="char_limit">¡No más de 140 caracteres por favor!</string>
 <string name="char_min">No less than 5 characters please!</string>
 <string name="char_min">Around 250 Characters!</string>
+<string name="steven">Steven is testing this repo</string>
+<string name="zapata">Zapata is working</string>
+<string name="deleted">File deleted and seeing if all the strings are added back</string>
+<string name="localized_file_deleted">Localized file deleted and seeing if all the strings are updated to smartling</string>
+
 <!-- smartling.character_limit = NONE -->
 <string name="no_limit">Hemos deshabilitado la directiva de archivo de límite de caracteres. ¡Eso significa que esta cadena puede ser tan larga como sea necesaria! Ya no hay un límite de 140 caracteres.</string>
 </resources>
