@@ -96,5 +96,8 @@
   "homepage": "home",
   "home_living": "home",
   "test1": "testing this string",
-  "steven": "Steven is testing this repo %s becaused I can [%s]"
+  "steven": "Steven is testing this repo %s becaused I can [%s]",
+  "Smartling": "Smartling is the top company when it comes to translating",
+  "Google": "Google everything",
+  "Colombia": "I love Colombia"
 }
