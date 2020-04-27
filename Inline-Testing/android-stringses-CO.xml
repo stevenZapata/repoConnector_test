@@ -19,10 +19,10 @@
 <string name="char_min">No less than 5 characters please!</string>
 <string name="char_min">Around 250 Characters!</string>
 <string name="steven">Steven is testing this repo</string>
-<string name="zapata">Zapata is working</string>
+<string name="zapata">Zapata esta trabajando</string>
 <string name="Country">Country is Colombia</string>
 <string name="City">Mi ciudad favorita del mundo es Medellín.</string>
-<string name="deleted">File deleted and seeing if all the strings are added back</string>
+<string name="deleted">Archivo eliminado y ver si se vuelven a agregar todas las cadenas</string>
 <string name="localized_file_deleted">Localized file deleted and seeing if all the strings are updated to smartling</string>
 
 <!-- smartling.character_limit = NONE -->
