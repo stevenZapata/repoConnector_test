@@ -20,6 +20,8 @@
 <string name="char_min">Rund 250 Zeichen!</string>
 <string name="steven">Steven testet dieses Repo</string>
 <string name="zapata">Zapata arbeitet</string>
+<string name="Country">Country is Colombia</string>
+<string name="City">My favorite City in the world is Medellin</string>
 <string name="deleted">File deleted and seeing if all the strings are added back</string>
 <string name="localized_file_deleted">Localized file deleted and seeing if all the strings are updated to smartling</string>
 
