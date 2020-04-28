@@ -1,5 +1,5 @@
 {
-  "asset_page_loading_data_title" : "Cargando datos de activos",
+  "asset_page_loading_data_title" : "Cargando datos de activos otra vez",
   "asset_page_loading_data_message" : "Espere mientras carga los datos del activo ...",
   "asset_data_fetch_error" : "Failed to fetch asset data for [%s].",
   "asset_data_not_found" : "Asset data not found for [%s].",
