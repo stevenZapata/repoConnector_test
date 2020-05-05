@@ -4,7 +4,7 @@
   "asset_data_fetch_error" : "Error al recuperar datos de activos para [% s].",
   "asset_data_not_found" : "Asset data not found for [%s].",
   "asset_top_users_fetch_error" : "Failed to get top users for asset [%s].",
-  "asset_top_groups_fetch_error" : "Failed to get top groups for asset [%s].",
+  "asset_top_groups_fetch_error" : "Error al obtener los grupos principales para el activo [%ss].",
   "asset_top_service_accounts_fetch_error" : "Failed to get top service accounts for asset [%s].",
   "fetch_asset_sequences_error" : "Failed to get asset sequences",
   "asset_reset_compromised_error" : "Failed to reset compromised state for [%s].",
