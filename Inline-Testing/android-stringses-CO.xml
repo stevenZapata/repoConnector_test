@@ -23,7 +23,7 @@
 <string name="Country">País es colombia</string>
 <string name="City">Mi ciudad favorita del mundo es Medellín.</string>
 <string name="deleted">Archivo eliminado y ver si se vuelven a agregar todas las cadenas</string>
-<string name="localized_file_deleted">Localized file deleted and seeing if all the strings are updated to smartling</string>
+<string name="localized_file_deleted">Archivo localizado eliminado y ver si todas las cadenas están actualizadas a smartling</string>
 
 <!-- smartling.character_limit = NONE -->
 <string name="no_limit">Hemos deshabilitado la directiva de archivo de límite de caracteres. ¡Eso significa que esta cadena puede ser tan larga como sea necesaria! Ya no hay un límite de 140 caracteres.</string>
