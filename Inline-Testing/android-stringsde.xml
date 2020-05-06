@@ -8,6 +8,7 @@
 <string name="login">Benutzer-Anmeldung</string>
 <string name="SignOut">Benutzer hat sich abgemeldet</string>
 <string comment="This is an instruction about this string and will appear in the Smartling CAT Tool for linguists." name="intro">Beginnen Sie mit unserem Produkt!</string>
+<string translatable="FALSE" name="address">123 Fake Street</string>
 <string name="greeting">Willkommen, [user_name]</string>
 <!-- smartling.entity_escaping = true -->
 <string name="escape_please">&amp;lt;p&amp;gt; Hier ist ein <strong>bold</strong> Text &amp;amp; &amp;lt; &amp;gt; `zusätzliche © © Notizen. &amp;lt;/p&amp;gt;</string>
@@ -19,7 +20,11 @@
 <string name="char_min">Rund 250 Zeichen!</string>
 <string name="steven">Steven testet dieses Repo</string>
 <string name="zapata">Zapata arbeitet</string>
+<string name="Country">Country is Colombia</string>
 <string name="City">Meine Lieblingsstadt auf der Welt ist Medellin</string>
 <string name="deleted">Datei gelöscht und prüfen, ob alle Zeichenfolgen wieder hinzugefügt wurden</string>
+<string name="localized_file_deleted">Localized file deleted and seeing if all the strings are updated to smartling</string>
+
+<!-- smartling.character_limit = NONE -->
 <string name="no_limit">Wir haben die Direktive für Zeichenbeschränkungsdateien deaktiviert. Das bedeutet, dass diese Zeichenfolge so lang wie nötig sein kann! Es gibt keine Beschränkung von 140 Zeichen mehr.</string>
 </resources>
