@@ -2,7 +2,7 @@
   "asset_page_loading_data_title" : "Cargando datos de activos otra vez",
   "asset_page_loading_data_message" : "Espere mientras carga los datos del activo ...",
   "asset_data_fetch_error" : "Error al recuperar datos de activos para [% s].",
-  "asset_data_not_found" : "Asset data not found for [%s].",
+  "asset_data_not_found" : "Datos de activos no encontrados para [%ss].",
   "asset_top_users_fetch_error" : "Failed to get top users for asset [%s].",
   "asset_top_groups_fetch_error" : "Error al obtener los grupos principales para el activo [%ss].",
   "asset_top_service_accounts_fetch_error" : "Failed to get top service accounts for asset [%s].",
