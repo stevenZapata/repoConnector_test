@@ -12,6 +12,10 @@
          {
              "smartling" : "es-CO",
              "application" : "es-CO"
+         },
+                 {
+             "smartling" : "es-CO",
+             "application" : "CO"
          }
      ],
 
