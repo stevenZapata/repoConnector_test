@@ -58,7 +58,7 @@
          {
             "type"                      : "json",
             "authorizeContent"          : "false",
-            "pathRegex"                 : "Inline-Testing\\/AA UI_assets_related_nameChange.json",
+            "pathRegex"                 : "Inline-Testing\\/AA UI_assets_related_nameChangedeTestTwo.json",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
             "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (%s)"
