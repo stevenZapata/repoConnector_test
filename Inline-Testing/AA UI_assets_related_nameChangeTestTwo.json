@@ -1,5 +1,6 @@
 {
   "asset_page_loading_data_title": "Loading Asset Data",
+  "test2": "changed namespace"
   "asset_page_loading_data_message": "Please wait while loading asset data...",
   "asset_data_fetch_error": "Failed to fetch asset data for [%s].",
   "asset_data_not_found": "Asset data not found for [%s].",
