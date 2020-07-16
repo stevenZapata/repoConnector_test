@@ -64,6 +64,16 @@
                 "smartling.placeholder_format_custom = (%s)"
            ]
          },
+          {
+            "type"                      : "json",
+            "authorizeContent"          : "false",
+            "pathRegex"                 : "Inline-Testing\\/repo_json_test.json",
+            "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
+            "smartlingDirectives"       : [
+                "smartling.placeholder_format_custom = (%s)"
+           ]
+         },
+         
          
 
          // Translate all properties files from /msg folder and put translations to a /msg sub-folder that has the same name as translated locale.
