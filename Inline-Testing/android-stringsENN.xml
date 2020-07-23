@@ -6,9 +6,7 @@
 <string name="hello_world">¡Hola Mundo!</string>
 <string name="action_settings">Configuraciones</string>
 <string name="login">sesión de usuario</string>
-<string name="SignOut">User has signed out</string>
 <string comment="This is an instruction about this string and will appear in the Smartling CAT Tool for linguists." name="intro">¡Comience a usar nuestro producto!</string>
-<string translatable="FALSE" name="address">123 Fake Street</string>
 <string name="greeting">Bienvenido, [user_name]</string>
 <!-- smartling.entity_escaping = true -->
 <string name="escape_please">&amp;lt;p&amp;gt; Aquí hay algunas <strong>bold</strong> texto &amp;amp; &amp;lt; &amp;gt; `notas adicionales © ©. &amp;lt;/p&amp;gt;</string>
@@ -16,12 +14,9 @@
 <string name="no_escape_please">&lt;p&gt; Aquí hay algunas <strong>bold</strong> texto &amp; &lt; &gt; `notas adicionales © ©. &lt;/p&gt;</string>
 <!-- smartling.character_limit = 140 -->
 <string name="char_limit">¡No más de 140 caracteres por favor!</string>
-<string name="char_min">No less than 5 characters please!</string>
-<string name="char_min">Around 250 Characters!</string>
-<string name="steven">Steven is testing this repo</string>
 <string name="zapata">Zapata esta trabajando</string>
-<string name="Country">País es colombia</string>
-<string name="City">Mi ciudad favorita del mundo es Medellín.</string>
+<string name="Country">País es colombiaaaaaa</string>
+<string name="City">Mi ciudad favorita del mundo es Medellínnnn</string>
 <string name="deleted">Archivo eliminado y ver si se vuelven a agregar todas las cadenas</string>
 <string name="localized_file_deleted">Archivo localizado eliminado y ver si todas las cadenas están actualizadas a smartling</string>
 
