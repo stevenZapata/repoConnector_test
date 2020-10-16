@@ -8,7 +8,6 @@
 <string name="login">Benutzer-Anmeldung</string>
 <string name="SignOut">Benutzer hat sich abgemeldet</string>
 <string comment="This is an instruction about this string and will appear in the Smartling CAT Tool for linguists." name="intro">Beginnen Sie mit unserem Produkt!</string>
-<string translatable="FALSE" name="address">123 Fake Street</string>
 <string name="greeting">Willkommen, [user_name]</string>
 <!-- smartling.entity_escaping = true -->
 <string name="escape_please">&amp;lt;p&amp;gt; Hier ist ein <strong>bold</strong> Text &amp;amp; &amp;lt; &amp;gt; `zusätzliche © © Notizen. &amp;lt;/p&amp;gt;</string>
