@@ -1,6 +1,6 @@
 {
   "asset_page_loading_data_title" : "Laden von Asset-Daten",
-  "test2" : "changed namespace",
+  "test2" : "",
   "asset_page_loading_data_message" : "Bitte warten Sie beim Laden der Asset-Daten ...",
   "asset_data_fetch_error" : "Fehler beim Abrufen der Asset-Daten für [%s].",
   "asset_data_not_found" : "Asset-Daten für [% s] nicht gefunden.",
@@ -102,9 +102,9 @@
   "Google" : "Google alles",
   "Colombia" : "Ich liebe Kolumbien",
   "Language" : "Meine Lieblingssprache ist Python",
-  "Pam" : "testing for Pam",
-  "Fedex" : "Fedex",
-  "Dog" : "this is a dog",
-  "yuck" : "yuck why isn't it working",
-  "help" : "really need help with this"
+  "Pam" : "",
+  "Fedex" : "",
+  "Dog" : "",
+  "yuck" : "",
+  "help" : ""
 }
