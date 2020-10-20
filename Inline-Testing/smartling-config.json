@@ -50,7 +50,7 @@
             "authorizeContent"          : "false",
             "pathRegex"                 : "Inline-Testing\\/android-strings.xml",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
-            "translationCommitMessage"  : "Smartling task translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
+            "translationCommitMessage"  : "Smartling task translate ${originalFile.name} to ${locale} ${translatedFile.fullName}",
             "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
                 "smartling.variants_enabled = true"
