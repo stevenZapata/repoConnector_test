@@ -50,7 +50,6 @@
             "authorizeContent"          : "false",
             "pathRegex"                 : "Inline-Testing\\/android-strings.xml",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
-            "translationCommitMessage"  : "Smartling task translate ${originalFile.name} to ${locale} ${translatedFile.fullName}",
             "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
                 "smartling.variants_enabled = true"
@@ -61,7 +60,6 @@
             "authorizeContent"          : "false",
             "pathRegex"                 : "Inline-Testing\\/AA UI_assets_related_nameChangeTestTwo.json",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
-            "translationCommitMessage"  : "Smartling task translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
             "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (%s)"
            ]
@@ -71,7 +69,6 @@
             "authorizeContent"          : "false",
             "pathRegex"                 : "Inline-Testing\\/repo_json_test.json",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
-            "translationCommitMessage"  : "Smartling task translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
             "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (%s)"
            ]
