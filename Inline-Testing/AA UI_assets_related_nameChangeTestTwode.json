@@ -5,9 +5,9 @@
   "asset_data_fetch_error" : "Fehler beim Abrufen der Asset-Daten für [%s].",
   "asset_data_not_found" : "Asset-Daten für [% s] nicht gefunden.",
   "asset_top_users_fetch_error" : "Top-Benutzer für Asset [%s] konnten nicht abgerufen werden.",
-  "asset_top_groups_fetch_error" : "Top-Gruppen für Asset [% s] konnten nicht abgerufen werden.",
+  "asset_top_groups_fetch_error" : "Top-Gruppen für Asset [% s] konnten nicht abgerufen werden.werdennnn",
   "asset_top_service_accounts_fetch_error" : "Fehler beim Abrufen der Top-Service-Konten für Asset [% s].",
-  "fetch_asset_sequences_error" : "Asset-Sequenzen konnten nicht abgerufen werden",
+  "fetch_asset_sequences_error" : "Asset-Sequenzen konnten nicht abgerufen werdennnnnn",
   "asset_reset_compromised_error" : "Fehler beim Zurücksetzen des gefährdeten Status für [% s].",
   "notable_assets_title" : "Bemerkenswerte Vermögenswerte",
   "notable_assets_loading_data_title" : "Laden von bemerkenswerten Assets",
@@ -106,5 +106,7 @@
   "Fedex" : "",
   "Dog" : "",
   "yuck" : "",
-  "help" : ""
+  "help" : "",
+  "repo" : "",
+  "working" : ""
 }
