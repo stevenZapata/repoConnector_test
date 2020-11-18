@@ -46,7 +46,7 @@
          // Minimal recourse set definition. Translations won't be pushed back.
         
          {
-            "type"                      : "",
+            "type"                      : "android",
             "authorizeContent"          : "false",
             "pathRegex"                 : "Inline-Testing\\/android-strings.xml",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
