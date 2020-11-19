@@ -68,7 +68,7 @@
             "type"                      : "json",
             "authorizeContent"          : "false",
             "pathRegex"                 : ".*\\/testingupload2.json",
-            "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
+            "translationPathExpression" : "${originalFile.path}/${locale}/${originalFile.baseName}.${originalFile.extension}",
             "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (%s)"
            ]
