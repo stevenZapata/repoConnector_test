@@ -67,7 +67,7 @@
           {
             "type"                      : "json",
             "authorizeContent"          : "false",
-            "pathRegex"                 : ".*\\/testingupload2.json",
+            "pathRegex"                 : ".*\\/api_groups\\/.*\\/(AddressValidation-Introduction|AddressValidation-Common-ErrorMapping|APIAuthorization-Introduction|APIAuthorization-Common-ErrorMapping|ShipmentCloseAPI-Introduction|CloseAPI-Common-ErrorMapping|PostalValidation-Introduction|Country-Common-ErrorMapping|Common-ErrorMapping|AccountVerification-Introduction|Account-Common-ErrorMapping|DangerousGoods-Introduction|DangerousGoods-Common-ErrorMapping|ETDUpload-Introduction|ETDUpload-Common-ErrorMapping|HarmonizedCode-Introduction|Commodity-Common-ErrorMapping|Inflight-Introduction|Inflight-Common-ErrorMapping|Location-Introduction|Location-Common-ErrorMapping|LTLFreight-Introduction|LTLFreight-Common-ErrorMapping|OpenShip-Introduction|OpenShip-Common-ErrorMapping|Pickup-Introduction|Pickup-Common-ErrorMapping|Rate-Introduction|Rate-Common-ErrorMapping|Registration-Introduction|Registration-Common-ErrorMapping|ServiceAvailability-Introduction|ServiceAvailability-Common-ErrorMapping|Ship-Introduction|Ship-Common-ErrorMapping|Track-Introduction|Track-Common-ErrorMapping|Reference-Guide)\\.json",
             "translationPathExpression" : "${originalFile.path}/${locale}/${originalFile.baseName}.${originalFile.extension}",
             "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (%s)"
