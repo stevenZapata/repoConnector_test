@@ -67,7 +67,7 @@
           {
             "type"                      : "json",
             "authorizeContent"          : "false",
-            "pathRegex"                 : "Inline-Testing\\/.*.json",
+            "pathRegex"                 : ".*?\\/.*?\\/.*?\\/(?!notranslate).*.json",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
             "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (%s)"
