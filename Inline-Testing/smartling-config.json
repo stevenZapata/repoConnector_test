@@ -58,6 +58,16 @@
          {
             "type"                      : "json",
             "authorizeContent"          : "false",
+            "pathRegex"                 : "Inline-Testing\\/thisIsTest.en.US.json",
+            "translationPathExpression" : "Inline-Testing/${originalFile.baseName}${locale}.${originalFile.extension}",
+            "smartlingDirectives"       : [
+                "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
+                "smartling.variants_enabled = true"
+           ]
+         }
+         {
+            "type"                      : "json",
+            "authorizeContent"          : "false",
             "pathRegex"                 : "Inline-Testing\\/AA UI_assets_related_nameChangeTestTwo.json",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
             "smartlingDirectives"       : [
