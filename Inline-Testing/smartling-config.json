@@ -69,7 +69,7 @@
          {
             "type"                      : "json",
             "authorizeContent"          : "false",
-            "pathRegex"                 : "Inline-Testing\\/thisIsTest\\.json",
+            "pathRegex"                 : "Inline-Testing\\/uploadFile.json\\.json",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
             "smartlingDirectives"       : [
                 "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
