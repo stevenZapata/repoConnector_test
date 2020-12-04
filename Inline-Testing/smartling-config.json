@@ -55,6 +55,17 @@
                 "smartling.variants_enabled = true"
            ]
          },
+                 
+         {
+            "type"                      : "android",
+            "authorizeContent"          : "false",
+            "pathRegex"                 : "Inline-Testing\\/andoridStringsTestFedex\\.en\\.US\\.xml",
+            "translationPathExpression" : "Inline-Testin/${originalFile.baseName}${locale}.${originalFile.extension}",
+            "smartlingDirectives"       : [
+                "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
+                "smartling.variants_enabled = true"
+           ]
+         },
          {
             "type"                      : "json",
             "authorizeContent"          : "false",
