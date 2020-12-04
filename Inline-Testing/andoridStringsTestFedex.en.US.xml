@@ -1,1 +1,12 @@
 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- smartling.instruction_attributes = comment, note -->
+<!-- smartling.placeholder_format_custom = \[.+?\] -->
+<resources>
+<string note="This is an instructions about this string and will appear in the Smartling CAT Tool for linguists." name="app_name">My Application</string>
+<string name="hello_world">Hello worldd!</string>
+<string name="action_settings">Settings again</string>
+<string name="login">Users Login</string>
+<string name="SignOut">Users has signed out</string>
+<string comment="This is an instruction about this string and will appear in the Smartling CAT Tool for linguists." name="intro">Get started using our product!</string>
+<string translatable="FALSE" name="address">123 Fake Street</string>
