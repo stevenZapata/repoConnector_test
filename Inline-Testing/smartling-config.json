@@ -65,7 +65,7 @@
                 "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
                 "smartling.variants_enabled = true"
            ]
-         }
+         },
          {
             "type"                      : "json",
             "authorizeContent"          : "false",
@@ -99,3 +99,4 @@
          }
      ]
 }
+
