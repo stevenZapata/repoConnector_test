@@ -22,6 +22,7 @@
 <string name="zapata">Zapata is working</string>
 <string name="Country">Country is Colombia</string>
 <string name="City">My favorite City in the world is Medellin</string>
+  <string name="Song">Favorite song is dime que si</string>
 <string name="deleted">File deleted and seeing if all the strings are added back</string>
 <string name="localized_file_deleted">Localized file deleted and seeing if all the strings are updated to smartling</string>
 
