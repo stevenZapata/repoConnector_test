@@ -64,6 +64,15 @@
                 "smartling.placeholder_format_custom = (%s)"
            ]
          },
+                  {
+            "type"                      : "json",
+            "authorizeContent"          : "false",
+            "pathRegex"                 : "Inline-Testing\\/stevenTest\\.json",
+            "translationPathExpression" : "${originalFile.path}${originalFile.baseName}${locale}.${originalFile.extension}",
+            "smartlingDirectives"       : [
+                "smartling.placeholder_format_custom = (%s)"
+           ]
+         },
           {
             "type"                      : "json",
             "authorizeContent"          : "false",
